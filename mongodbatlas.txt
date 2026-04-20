@@ -1,0 +1,4 @@
+user: lucaslatierro02_db_user
+pass: vMtGkmqGto8ddNGf
+site: cloud.mongodb.com
+conn: mongodb+srv://lucaslatierro02_db_user:vMtGkmqGto8ddNGf@cluster0.lgfoprx.mongodb.net/?appName=Cluster0
